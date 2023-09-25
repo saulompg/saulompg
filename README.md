@@ -7,5 +7,5 @@
 ----
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulompg&layout=compact&theme=dracula" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulompg&layout=compact&theme=darcula" /> 
 </div>
