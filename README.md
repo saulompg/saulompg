@@ -1,6 +1,6 @@
-### Olá! Eu sou o Saulo Gomes
+### Olá! Eu sou o Saulo Gomes, apaixonado por programação e cinema 
 
-- 🎓 Sou estudante do Bacharelado Interdisciplinar em Ciência, Tecnologia e Inovação na Universidade Federal da Bahia.
+- 🎓 Bacharelado Interdisciplinar em Ciência, Tecnologia e Inovação na Universidade Federal da Bahia.
 - 🌱 Estou estudando o desenvolvimento de aplicações móveis acessíveis com o Kotlin.
 - 🔭 Participo do Programa de Iniciação Ciêntifica apoiado pelo CNPq.
 
