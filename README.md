@@ -1,8 +1,8 @@
-### Olá! Eu sou o Saulo Gomes, apaixonado por programação e cinema 
+### Hi! My name is Saulo Gomes
 
-- 🎓 Engenharia da Computação na Universidade Federal da Bahia.
-- 🌱 Embedded Systems, Automação e IoT.
-- 🔭 Participo do Programa de Iniciação Ciêntifica apoiado pelo CNPq.
+- 🎓 Computer Engineering Student on Universidade Federal da Bahia.
+- 🌱 Embedded Systems, Automation and IoT.
+- 🔭 Scientific Research.
 
 ----
 
